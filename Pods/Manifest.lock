@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (4.6.0)
+  - Differentiator (3.0.2)
+  - RxAlamofire (4.1.0):
+    - RxAlamofire/Core (= 4.1.0)
+  - RxAlamofire/Core (4.1.0):
+    - Alamofire (~> 4.5)
+    - RxSwift (~> 4.0)
+  - RxCocoa (4.1.2):
+    - RxSwift (~> 4.0)
+  - RxDataSources (3.0.2):
+    - Differentiator (~> 3.0)
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - RxSwift (4.1.2)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - RxAlamofire (~> 4.1)
+  - RxCocoa (~> 4.1)
+  - RxDataSources (~> 3.0)
+  - RxSwift (~> 4.1)
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  Differentiator: a87be69eba49ec4ab460c7671143ee3a9eececfd
+  RxAlamofire: 96a2bff4694a1609bb59c57b53d99ea7a0ddc64a
+  RxCocoa: d88ba0f1f6abf040011a9eb4b539324fc426843a
+  RxDataSources: cb7c31e652a87ebb919da45f716bbb87b3765f6b
+  RxSwift: e49536837d9901277638493ea537394d4b55f570
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: f1357900b72b1afbcfc055db2b1e9623bebbfe2f
+
+COCOAPODS: 1.4.0
